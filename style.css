@@ -1,0 +1,28 @@
+div {
+    background: ;
+}
+.section {
+    background: blue;
+    color: white;
+}
+span {
+    background: orange;
+    float: left;
+}
+
+.box1 {
+    background: red;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.box2 {
+    background: orange;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-brand {
+    padding: 0px;
+    margin: 0px;
+}
